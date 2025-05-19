@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, We,re TechPilot Media</h1>
 <h3 align="center">A results-driven digital marketing agency helping businesses grow through smart web design, automation, and marketing strategies.</h3>
-<img align = "right" alt="coding" width="400" src="https://www.vecteezy.com/video/51563733-effective-digital-marketing-strategy-2d-animation-accelerating-business-in-social-media-4k-motion-graphic-indian-man-riding-rocket-animated-character-cartoon-flat-concept-white-background" >
+<img align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/7e4fde20d16f05f7f68d5fbe55fff4bdc0b43486b11a95aa21b443bb1cd6e622/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966" >
+
 
 
 - 👨‍💻 All of my projects are available at [https://techpilotmedia.com/](https://techpilotmedia.com/)
