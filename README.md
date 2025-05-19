@@ -7,6 +7,13 @@
 
 - 📫 How to reach me **techpilotmedia@gmail.com**
 
+### 💼 What We Offer
+- ⚙️ Custom websites with React.js + Tailwind CSS
+- 🤖 AI-driven lead generation from Google Maps & LinkedIn
+- 📅 Calendar automation with WhatsApp & email follow-up
+- 🧠 Clean UI/UX designs with Figma
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/techpilot media" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techpilot media" height="30" width="40" /></a>
